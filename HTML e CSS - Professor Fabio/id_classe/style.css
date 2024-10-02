@@ -1,0 +1,45 @@
+/* Id = # */
+/* Clsse = . */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo-principal {
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+
+.basico {
+    font-family: sans-serif;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: 1.0em;
+}
+
+.intermediario {
+    font-family: sans-serif;
+    color: rgb(22, 89, 233);
+    font-weight: bold;
+    font-size: 1.0em;
+}
+
+.avançado {
+    font-family: sans-serif;
+    color: rgb(247, 152, 231);
+    font-weight: bold;
+    font-size: 1.0em;
+}
+
+.destaque {
+    background-color: rgb(247, 244, 86);
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 1.5;
+    font-weight: bold;
+    font-size: 1.0em;
+}
